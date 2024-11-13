@@ -92,8 +92,8 @@
       }
 
       &.current {
-        color: $text-color;
-        background: $black;
+        color: $background-dark;
+        background: $link-color;
       }
 
       &.disabled {
@@ -196,8 +196,8 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $background-dark;
-    color: $text-color;
+    background-color: $link-color;
+    color: $background-dark;
     cursor: pointer;
     z-index: 100;
   }
@@ -234,7 +234,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: $background-dark;
+        background: $link-color;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -294,7 +294,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: $border-color transparent;
+      border-color: $background-dark transparent;
       display: block;
       z-index: 1;
     }
@@ -336,13 +336,13 @@
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: #text-color;
+    color: $background-dark;
     font-weight: bold;
-    background: $black;
+    background: $link-color;
     border-radius: $border-radius;
 
     &:hover {
-      color: $text-color;
+      color: $background-dark;
     }
   }
 }
@@ -373,7 +373,7 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $background-dark;
+  color: $link-color;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: $background-dark;
@@ -382,9 +382,9 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #text-color;
+    color: #background-dark;
     font-size: $type-size-6;
-    background: $background-dark;
+    background: $link-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
