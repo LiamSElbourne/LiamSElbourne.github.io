@@ -26,6 +26,7 @@ Works in Progress
 
 Other Projects
 ======
-"[A Short Primer on Spatial Econometrics](https://liamselbourne.github.io/files/Spatial_Metrics.pdf)"
+1. "[A Short Primer on Spatial Econometrics](https://liamselbourne.github.io/files/Spatial_Metrics.pdf)"
+
 
 
