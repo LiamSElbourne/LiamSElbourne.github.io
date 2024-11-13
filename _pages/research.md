@@ -19,6 +19,7 @@ Coming soon ...
 Works in Progress
 ======
 "Seeing is Believing: Extreme Weather and Public Perceptions of Climate Change in the United States" 
+
 "Local Weather, Spatial Spillovers, and Public Perceptions of Climate Change in Canada"
 
 
