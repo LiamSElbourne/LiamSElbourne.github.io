@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Liam S. Elbourne"
+title: "Test"
 author_profile: false
 redirect_from: 
   - /about/
