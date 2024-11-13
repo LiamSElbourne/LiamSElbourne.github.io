@@ -93,7 +93,7 @@
 
       &.current {
         color: $text-color;
-        background: $background-dark;
+        background: $black;
       }
 
       &.disabled {
@@ -338,7 +338,7 @@
     padding-right: 0.5em;
     color: #text-color;
     font-weight: bold;
-    background: $background-dark;
+    background: $black;
     border-radius: $border-radius;
 
     &:hover {
