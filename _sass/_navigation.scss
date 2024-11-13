@@ -294,7 +294,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: #fff transparent;
+      border-color: $border-color transparent;
       display: block;
       z-index: 1;
     }
@@ -338,7 +338,7 @@
     padding-right: 0.5em;
     color: #text-color;
     font-weight: bold;
-    background: $primary-color;
+    background: $background-dark;
     border-radius: $border-radius;
 
     &:hover {
@@ -373,10 +373,10 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $gray;
+  color: $background-dark;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #fff;
+  background-color: $background-dark;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
@@ -384,7 +384,7 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: $primary-color;
+    background: $background-dark;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
@@ -400,7 +400,7 @@
   a {
     display: block;
     padding: 0.5rem 1rem;
-    color: $gray;
+    color: $black;
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 1.5;
@@ -409,7 +409,7 @@
 
     &:hover {
       color: #000;
-      background: $lighter-gray;
+      background: $black;
     }
   }
 
