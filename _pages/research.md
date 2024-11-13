@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: 
+title: "Research"
 author_profile: true
 redirect_from: 
   - /publications/
@@ -21,8 +21,6 @@ Works in Progress
 ======
 1. "Seeing is Believing: Extreme Weather and Public Perceptions of Climate Change in the United States"
 2. "Local Weather, Spatial Spillovers, and Public Perceptions of Climate Change in Canada"
-
-
 
 
 Other Projects
