@@ -6,7 +6,7 @@ redirect_from:
   - /publications/
 ---
 
-Publications
+
 ======
 1. "[Shocks to military support and subsequent assassionations in Ancient Rome](https://www.sciencedirect.com/science/article/abs/pii/S0165176518302532)" (with Cornelius Christian), Economics Letters, 2018. 
 
