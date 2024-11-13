@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "Liam Elbourne"
-author_profile: true
+title: "Liam S. Elbourne"
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a doctoral candidate in the Department of Economics at the University of Oxford. Prior to my doctoral studies, I completed an MPhil in Economics at the University of Oxford and a BBA in Economics & Finance at St. Francis Xavier University. My research interests are in environmental economics, opinion formation, spatial econometrics, and wine economics. 
+I am a doctoral candidate in the Department of Economics at the University of Oxford. As part of the department’s Resource and Environment research group, my doctoral thesis focuses on how public perceptions of climate change are shaped and their implications for pro-environmental behaviour. This research is supervised by Dr Elizabeth Baldwin and Dr Steve Bond. 
+
+More broadly, my research interests lie in environmental economics, economic history, and the economics of wine. 
+
 
 
 In The News
