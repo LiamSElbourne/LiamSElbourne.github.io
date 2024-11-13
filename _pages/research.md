@@ -13,7 +13,7 @@ Publications
 
 Working Papers
 ======
-Coming soon ...
+_Coming soon ..._
 
 
 Works in Progress
