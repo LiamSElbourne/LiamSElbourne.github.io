@@ -21,3 +21,4 @@ In The News
 - [British Columbia's wine industry facing major climate-change challenges (Decanter)](https://www.decanter.com/wine-news/british-columbias-wine-industry-facing-major-climate-change-challenges-518133/)
 - [St.F.X. soccer captain selected for prestigious Rhodes Scholarship (CBC News)](https://www.cbc.ca/news/canada/nova-scotia/liam-elbourne-st-fx-rhodes-scholar-1.4933088)
 - [Oxford bound: Meet four of Canada's latest Rhodes scholars (The Globe and Mail)](https://www.theglobeandmail.com/canada/article-oxford-bound-meet-four-of-canadas-latest-rhodes-scholars/)
+- [Liam Elbourne honoured as USports Top 8 Academic All-Canadian](https://www.goxgo.ca/sports/msoc/2019-20/releases/20200122lgg12m)
