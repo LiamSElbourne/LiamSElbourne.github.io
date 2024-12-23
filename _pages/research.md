@@ -23,8 +23,9 @@ _Coming soon ..._
 
 ### Works in Progress
 
-1. "Seeing is Believing: Extreme Weather and Public Perceptions of Climate Change in the United States"
-2. "Local Weather, Spatial Spillovers, and Public Perceptions of Climate Change in Canada"
+1. "Seeing is believing: Extreme weather and public perceptions of climate change in the United States"
+2. "Local weather, spatial spillovers, and public perceptions of climate change in Canada"
+3. "An MRP approach to evaluating cold injury in cool-climate wine regions"
 
 
 ### Other Projects
