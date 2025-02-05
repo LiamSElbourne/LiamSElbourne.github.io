@@ -18,19 +18,13 @@ redirect_from:
 
 ### Working Papers
 
-1. "[Extreme weather, experiential learning, and spatial spillovers in the climate opinion formation process](https://liamselbourne.github.io/files/US_Climate_Opinion_Formation.pdf)"
+1. COMING SOON - Extreme weather, experiential learning, and spatial spillovers in the climate opinion formation process
 
 
 ### Works in Progress
 
 1. "Local weather, experiential learning, and spatial spillovers in the climate opinion formation process in Canada"
 2. "A mutli-level regression and post-stratification approach to evaluating cold injury in cool-climate wine regions"
-
-
-
-### Other Projects
-
-1. "[A Short Primer on Spatial Econometrics](https://liamselbourne.github.io/files/Spatial_Metrics.pdf)"
 
 
 
