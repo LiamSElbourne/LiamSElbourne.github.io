@@ -18,7 +18,7 @@ redirect_from:
 
 ### Working Papers
 
-1. "[Extreme weather, experiential learning, and spatial spillovers in the climate opinion formation process](https://liamselbourne.github.io/files/US_Climate_Opinion_Extreme_Weather.pdf)
+1. "[Extreme weather, experiential learning, and spatial spillovers in the climate opinion formation process](https://liamselbourne.github.io/files/US_Climate_Opinion_Extreme_Weather.pdf)".
 
 
 ### Works in Progress
