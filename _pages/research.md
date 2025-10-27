@@ -24,7 +24,7 @@ redirect_from:
 ### Works in Progress
 
 1. "Local weather, experiential learning, and spatial spillovers in the climate opinion formation process in Canada"
-2. "A mutli-level regression and post-stratification approach to evaluating cold injury in cool-climate wine regions"
+2. "On the measurement of a negative supply shock in cool-climate viticulture"
 
 
 
